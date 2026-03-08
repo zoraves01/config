@@ -1,6 +1,6 @@
 {
   "m3u_urls": [
-    
+    "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/CricHD.m3u",
     "https://hitwicketonline.vercel.app/hit/playlist.m3u"
   ],
   "telegram_url": "https://t.me/Hitwicket_updates",
