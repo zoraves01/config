@@ -9,7 +9,7 @@
   "top_ad_url": "https://example.com/click-top",
   "bottom_ad_image": "https://i.postimg.cc/VkyyjLfv/download.png",
   "bottom_ad_url": "https://example.com/click-bottom",
-  "unlock_enabled": false,
+  "unlock_enabled": true,
   "unlock_ad_url": "https://www.icc-cricket.com",
   "unlock_wait_time": 3,
   "allowed_channels": [
