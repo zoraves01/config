@@ -9,17 +9,28 @@
   "top_ad_url": "https://example.com/click-top",
   "bottom_ad_image": "https://i.postimg.cc/VkyyjLfv/download.png",
   "bottom_ad_url": "https://example.com/click-bottom",
-  "unlock_enabled": true,
+  "unlock_enabled": false,
   "unlock_ad_url": "https://www.google.com",
-  "unlock_wait_time": 1,
+  "unlock_wait_time": 3,
   "allowed_channels": [
-    "Cricbuzz Willow 1",
+     "Cricbuzz Willow 1",
     "Cricbuzz Willow 2",
     "Star Sports 1",
     "Star Sports 1 English",
+    "Star Sports 1 Hindi",
+    "PTV Sports",
+    "PTV Sports 2",
+    "Willow HD",
+    "Willow HD 2",
+    "Sky Sports Cricket",
+    "Sky Sports",
+    "Sky Sports Main Event",
     "ESPN 1",
+    "ESPN 12",
+    "Sony Sports3",
     "Fox Cricket 501 HD",
     "A Sports HD",
-    "Ten Sports"
+    "Ten Sports",
+    "Astro Cricket"
   ]
 }
