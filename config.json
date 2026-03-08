@@ -5,8 +5,8 @@
   ],
   "telegram_url": "https://t.me/Hitwicket_updates",
   "show_ads": true,
-  "top_ad_image": "https://example.com/ad-image-top.jpg",
+  "top_ad_image": "https://i.postimg.cc/VkyyjLfv/download.png",
   "top_ad_url": "https://example.com/click-url-top",
-  "bottom_ad_image": "https://example.com/ad-image-bottom.jpg",
+  "bottom_ad_image": "https://i.postimg.cc/VkyyjLfv/download.png",
   "bottom_ad_url": "https://example.com/click-url-bottom"
 }
