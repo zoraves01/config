@@ -11,15 +11,12 @@
   "bottom_ad_url": "https://example.com/click-bottom",
   "unlock_enabled": true,
   "unlock_ad_url": "https://omg10.com/4/10687610",
-  "unlock_wait_time": 4
+  "unlock_wait_time": 4,
   "allowed_channels": [
     "Cricbuzz Willow 1",
     "Cricbuzz Willow 2",
     "Star Sports 1",
     "Star Sports 1 English",
-     "ESPN 1"
-  
-
+    "ESPN 1"
   ]
 }
-
